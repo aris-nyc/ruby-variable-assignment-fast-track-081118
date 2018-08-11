@@ -16,12 +16,17 @@ end
 add_one_to_age(my_age)
 
 
+# ruby implicit return:
+# tldr - The last thing gets returned
 
+# longer definition: The result of the evaluation of the last 
+# line of code executed within the method
+# gets 
 def my_method
   puts "helo there"
 end
 
-binding.protect_from_forgery
+binding.pry 
 
 
 
