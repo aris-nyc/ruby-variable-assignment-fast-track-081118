@@ -2,11 +2,15 @@ puts dog
 state = "new york"
 
 # declaring a method in ruby 
+# here is the method definition:
 
-def = add_one_to_age
+def add_one_to_age
   # body of function 
   # what are we going to do here??
-  my_age += 1 
-  puts "my new age is #{my age}"
-  
+  puts my_age
+  age += 1 
+  puts "my new age is #{age}"
 end 
+
+# calling, or invoking, a method:
+add_one_to_age(my_age)
