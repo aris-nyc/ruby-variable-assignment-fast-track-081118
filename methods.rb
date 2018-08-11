@@ -14,3 +14,8 @@ end
 
 # calling, or invoking, a method:
 add_one_to_age(my_age)
+
+
+
+def my_method
+  puts
