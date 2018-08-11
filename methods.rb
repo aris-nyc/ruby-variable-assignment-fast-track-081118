@@ -1,3 +1,4 @@
+
 # declaring a method in Ruby 
 puts dog 
 state = "new york"
