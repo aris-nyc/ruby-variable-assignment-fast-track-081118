@@ -1,11 +1,9 @@
-uts dog
-# declaring a method in Ruby 
-p 
+puts dog
 state = "new york"
 
+# declaring a method in ruby 
 
-
-def = name_function
+def = add_one_to_age
   # body of function 
   # what are we going to do here??
   my_age += 1 
