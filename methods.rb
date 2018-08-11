@@ -1,6 +1,6 @@
-
+uts dog
 # declaring a method in Ruby 
-puts dog 
+p 
 state = "new york"
 
 
