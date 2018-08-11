@@ -18,4 +18,14 @@ add_one_to_age(my_age)
 
 
 def my_method
-  puts
+  puts "helo there"
+end
+
+binding.protect_from_forgery
+
+
+
+
+
+
+
